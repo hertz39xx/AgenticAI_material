@@ -10,7 +10,7 @@
 
 - Fine-Tuning via PEFT, LoRA
 
-- Training with Unsloth ![alt text](https://rebirth.devoteam.com/wp-content/uploads/2024/06/Devoteam_rebirth_blog_prompt-engineering-vs-RAG-2.png)
+- Training with Unsloth ![alt text](<Devoteam_rebirth_blog_prompt-engineering-vs-RAG-2 (1).png>)
 
 ### 3. Hands-on Practice
 - [Ollama](https://ollama.com/)
