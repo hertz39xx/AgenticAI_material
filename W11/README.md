@@ -3,7 +3,7 @@
 ### 1. Group Presentation of the Reading assignments
 - Team 8: Presentation [15-20 mintues]
 - Team 4: Challenging by asking questions [5 mintues]
-### 2. Open source LLMs and Model fine-tuning [ Slide ]
+### 2. Open source LLMs and Model fine-tuning [ [Slide](https://docs.google.com/presentation/d/11-rgEMHoe1Gh925yTCbMU9qJJhBX9_c3v9SqNulBmdY/edit?usp=sharing) ]
 - Open-source LLMs: Mixture of Experts, Latent Dirichlet Allocation, EM (Expectef Maimization) 
 - LLM API Providers
 - Install local Models
